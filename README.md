@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 💻  I am a **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland. I currently focus on **Data Analytics** and **Machine Learning**.
+- 💻  I'm a **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland. I focus on **Data Analytics** and **Machine Learning**.
 - 💿  In a previous life, I was a multi-platinum [Audio Engineer](https://francismurraymusic.com/) in the music industry.  
 - ☕  I'm a coffee lover.
 
