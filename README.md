@@ -13,7 +13,7 @@
 - 🌤️ **Weather App**: Swift application displaying the weather forecast for a selected city. _[Swift]_ ([GitHub](https://github.com/francis-murray/WeatherApp))
 
 ### Let's connect!
-- <a href="[your link](https://www.linkedin.com/in/franciswmurray/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+- <a href="https://www.linkedin.com/in/franciswmurray/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
 <!--
