@@ -14,10 +14,12 @@
 
 
 ### Selection of projects I've worked on:
+- :speaking_head: **Speaker Classification**: Classified speakers using Machine Learning and Deep Learning algorithms trained on MFCC features and wav2vec representations of audio files _[Python, Scikit-Learn, PyTorch]_ ([GitHub](https://github.com/francis-murray/speaker-classification/blob/main/speaker_classification.ipynb))
+- 👨‍🔬 **Higgs Boson challenge**: Developed machine learning algorithms to analyse events coming from simulated particle collisions observed by the Large Hadron Collider at CERN, and try to predict events that will produce a Higgs boson. _[Python, Jupyter]_ ([GitHub](https://github.com/CS-433/ml-project-1-hofml))
 - 🌎 **CountryScan50**: Interactive and responsive Web App that lets you visualize a country’s population’s age distribution for a specific year. _[Flask, Python, JavaScript, D3]_ ([GitHub](https://github.com/francis-murray/CountryScan50) | [Video](https://youtu.be/E5Iul-rX1ps)) 
 - ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
 - 🌤️ **Weather App**: Swift application displaying the weather forecast for a selected city. _[Swift]_ ([GitHub](https://github.com/francis-murray/WeatherApp))
-- 👨‍🔬 **Higgs Boson challenge**: Developed machine learning algorithms to analyse events coming from simulated particle collisions observed by the Large Hadron Collider at CERN, and try to predict events that will produce a Higgs boson. _[Python, Jupyter]_ ([GitHub](https://github.com/CS-433/ml-project-1-hofml))
+
   
 ### Let's connect!
 - <a href="https://www.linkedin.com/in/franciswmurray/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
