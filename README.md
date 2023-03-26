@@ -15,6 +15,7 @@
 
 ### Selection of projects I've worked on:
 - :speaking_head: **Speech Classification**: Classified speakers using Machine Learning and Deep Learning algorithms trained on MFCC features and wav2vec representations of audio files. _[Python, Scikit-Learn, PyTorch]_ ([GitHub](https://github.com/francis-murray/speaker-classification/blob/main/speaker_classification.ipynb))
+- :clapper: **Characterizing Patronage on YouTube**: Conducted a matched observational study on a large-scale dataset of 73 million YouTube videos. Analyzed time series and proposed a change point detection algorithm. _[Python]_ ([GitHub](https://github.com/epfl-dlab/patronage_youtube))
 - 🌎 **CountryScan50**: Interactive and responsive Web App that lets you visualize a country’s population’s age distribution for a specific year. _[Flask, Python, JavaScript, D3]_ ([GitHub](https://github.com/francis-murray/CountryScan50) | [Video](https://youtu.be/E5Iul-rX1ps)) 
 - ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
 - 🌤️ **Weather App**: Swift application displaying the weather forecast for a selected city. _[Swift]_ ([GitHub](https://github.com/francis-murray/WeatherApp))
