@@ -2,9 +2,10 @@
 
 ### About me:
 
-- 💻  I'm a **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland. I focus on **Data Analytics** and **Machine Learning**. Passionate about research at the intersection of climate change and AI. 
+- 💻  **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland, focusing on **Data Analytics** and **Machine Learning**.
+- 🌎  Passionate about using **AI** to combat **climate change** and making a **positive impact** on the world.
 - 💿  In a previous life, I was a multi-platinum [Audio Engineer](https://francismurraymusic.com/) in the music industry.  
-- ☕  I'm a coffee lover.
+- ☕  Coffee lover.
 
 <!-- ### Skills
 -  **Programming Languages:** <a href="#" target="_blank">  <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>           <a href="#" target="_blank"> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>          <a href="#" target="_blank"> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/scala/scala-original.svg" alt="scala" width="20" height="20"/> </a>          <a href="#" target="_blank"> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="go" width="20" height="20"/> </a>          <a href="#" target="_blank"> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a>          <a href="#" target="_blank"> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/> </a>          
