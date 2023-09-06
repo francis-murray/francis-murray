@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 💻  I'm a **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland. I focus on **Data Analytics** and **Machine Learning**.
+- 💻  I'm a **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland. I focus on **Data Analytics** and **Machine Learning**. Passionate about research at the intersection of climate change and AI. 
 - 💿  In a previous life, I was a multi-platinum [Audio Engineer](https://francismurraymusic.com/) in the music industry.  
 - ☕  I'm a coffee lover.
 
@@ -14,10 +14,11 @@
 
 
 ### Selection of projects I've worked on:
+- :mega: **Mining Effective Strategies for Climate Change Communication**: Tackling Climate Change with Machine Learning workshop at ICLR 2023 ([Publication](https://www.climatechange.ai/papers/iclr2023/38))
+- ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
 - :speaking_head: **Speech Classification**: Classified speakers using Machine Learning and Deep Learning algorithms trained on MFCC features and wav2vec representations of audio files. _[Python, Scikit-Learn, PyTorch]_ ([GitHub](https://github.com/francis-murray/speaker-classification/blob/main/speaker_classification.ipynb))
 - :clapper: **Characterizing Patronage on YouTube**: Conducted a matched observational study on a large-scale dataset of 73 million YouTube videos. Analyzed time series and proposed a change point detection algorithm. _[Python]_ ([GitHub](https://github.com/epfl-dlab/patronage_youtube))
 - 🌎 **CountryScan50**: Interactive and responsive Web App that lets you visualize a country’s population’s age distribution for a specific year. _[Flask, Python, JavaScript, D3]_ ([GitHub](https://github.com/francis-murray/CountryScan50) | [Video](https://youtu.be/E5Iul-rX1ps)) 
-- ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
 - 🌤️ **Weather App**: Swift application displaying the weather forecast for a selected city. _[Swift]_ ([GitHub](https://github.com/francis-murray/WeatherApp))
 - 👨‍🔬 **Higgs Boson challenge**: Developed machine learning algorithms to analyse events coming from simulated particle collisions observed by the Large Hadron Collider at CERN, and try to predict events that will produce a Higgs boson. _[Python, Jupyter]_ ([GitHub](https://github.com/CS-433/ml-project-1-hofml))
   
