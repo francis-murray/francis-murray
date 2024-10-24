@@ -2,8 +2,8 @@
 
 ### About me:
 
-- 💻  **Computer Science** master's student at [EPFL](https://www.epfl.ch/en/), Switzerland, focusing on **Data Analytics** and **Machine Learning**.
-- 🌎  Passionate about using **AI** to combat **climate change** and making a **positive impact** on the world.
+- 💻  **Computer Science** master's graduate from [EPFL](https://www.epfl.ch/en/), Switzerland, focusing on **Data Analytics** and **Machine Learning**.
+- 🌎  Passionate about using **AI** to combat **climate change** and make a **positive impact** on the world.
 - 💿  In a previous life, I was a multi-platinum [Audio Engineer](https://francismurraymusic.com/) in the music industry.  
 - ☕  Coffee lover.
 
@@ -15,6 +15,7 @@
 
 
 ### Selection of projects I've worked on:
+- :ocean: **Machine Learning Approaches to Predicting the El Niño-Southern Oscillation**: Designed and implemented novel deep learning approaches using Convolutional and Graph Neural Networks to model spatiotemporal data and enhance the prediction of El Niño-Southern Oscillation events. _[Spatiotemporal Data Modeling, Time Series Forecasting, CNNs, GNNs, PyTorch, Xarray]_ ([GitHub](https://github.com/francis-murray/ml-enso))
 - :mega: **Mining Effective Strategies for Climate Change Communication**: Tackling Climate Change with Machine Learning workshop at ICLR 2023 ([Publication](https://www.climatechange.ai/papers/iclr2023/38))
 - ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
 - :speaking_head: **Speech Classification**: Classified speakers using Machine Learning and Deep Learning algorithms trained on MFCC features and wav2vec representations of audio files. _[Python, Scikit-Learn, PyTorch]_ ([GitHub](https://github.com/francis-murray/speaker-classification/blob/main/speaker_classification.ipynb))
