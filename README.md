@@ -15,6 +15,7 @@
 
 
 ### Selection of projects I've worked on:
+- 🎙️ **Speech Enhancement**: Implemented a Convolutional Neural Network to denoise speech audio by learning the mapping between noisy and clean mel spectrograms. _[Speech Processing, CNNs, TensorFlow/Keras, Librosa]_ ([GitHub](https://github.com/francis-murray/speech-enhancement-cnn))
 - :ocean: **Machine Learning Approaches to Predicting the El Niño-Southern Oscillation**: Designed and implemented novel deep learning approaches using Convolutional and Graph Neural Networks to model spatiotemporal data and enhance the prediction of El Niño-Southern Oscillation events. _[Spatiotemporal Data Modeling, Time Series Forecasting, CNNs, GNNs, PyTorch, Xarray]_ ([GitHub](https://github.com/francis-murray/ml-enso))
 - :mega: **Mining Effective Strategies for Climate Change Communication**: Tackling Climate Change with Machine Learning workshop at ICLR 2023 ([Publication](https://www.climatechange.ai/papers/iclr2023/38))
 - ♻️ **Kyoto Protocol / GHG Emission Tracker**: Dynamic and interactive data visualizations using D3.js to track the effect of the Kyoto Protocol in reducing Greenhouse Gas emissions. _[JavaScript, D3]_ ([GitHub](https://github.com/com-480-data-visualization/data-visualization-project-2021-dfl) | [Video](https://youtu.be/vla4OJxy5Pk))
